@@ -1,0 +1,15 @@
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Release\net5.0\linux-x64\APExittest.Bussiness.deps.json
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Release\net5.0\linux-x64\APExittest.Bussiness.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Release\net5.0\linux-x64\APExittest.Bussiness.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Release\net5.0\linux-x64\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Release\net5.0\linux-x64\APExittest.Bussiness.pdb
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\refint\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.pdb
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\APExittest.Bussiness.genruntimeconfig.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Release\net5.0\linux-x64\ref\APExittest.Bussiness.dll

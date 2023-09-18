@@ -1,0 +1,45 @@
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.deps.json
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.runtimeconfig.json
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.runtimeconfig.dev.json
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.dll
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\bin\Debug\net5.0\ref\APExittest.Bussiness.dll
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.pdb
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.AssemblyInfoInputs.cache
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.AssemblyInfo.cs
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.dll
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\ref\APExittest.Bussiness.dll
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.pdb
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.genruntimeconfig.cache
+C:\Users\ashwnipandey\source\repos\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.deps.json
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.pdb
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\refint\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.pdb
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.genruntimeconfig.cache
+C:\Users\gautamkumar02\Desktop\APExittest (1)\APExittest.Bussiness\obj\Debug\net5.0\ref\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.deps.json
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\bin\Debug\net5.0\APExittest.Bussiness.pdb
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\refint\APExittest.Bussiness.dll
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.pdb
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\APExittest.Bussiness.genruntimeconfig.cache
+C:\Users\gautamkumar02\Desktop\ExitTest\Backend\APExittest.Bussiness\obj\Debug\net5.0\ref\APExittest.Bussiness.dll
